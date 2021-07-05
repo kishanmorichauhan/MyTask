@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439696922967",
+    "project_id": "orangetask-7b663",
+    "storage_bucket": "orangetask-7b663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439696922967:android:792cf3e1240c9e68dd4612",
+        "android_client_info": {
+          "package_name": "com.example.task8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439696922967-as9dqkvo4bmqs779aafio11j6gvvrvf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFS9ToK5OApTJJ5od2ydLQcbDgC9jLEB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439696922967-as9dqkvo4bmqs779aafio11j6gvvrvf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
